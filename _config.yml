@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Jaykyll
+description: "Jaykyll is a beautiful, minimalist, dark style Jekyll theme."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
